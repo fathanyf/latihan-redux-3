@@ -1,0 +1,1 @@
+nanti semua folder selain public dan styles dipindah disini
